@@ -1,4 +1,4 @@
-# E-Learning-Platform
+# E-Learning Platform
 
 https://platforma.foreverlearning.ro
 
