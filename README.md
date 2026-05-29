@@ -8,3 +8,7 @@ A modern full-stack e-learning platform designed to manage online courses, virtu
 <br>
 
 Key functionalities include secure authentication with role-based access (student/professor), course and enrollment management, announcements and attachments, assignment submission workflows, real-time video rooms powered by Daily.co, and a responsive React interface.
+
+<br>
+
+![Overview photo1](src/design/eLearning-Platform.png)
