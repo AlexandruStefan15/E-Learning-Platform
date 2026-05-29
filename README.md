@@ -11,4 +11,4 @@ Key functionalities include secure authentication with role-based access (studen
 
 <br>
 
-![Overview photo1](src/design/eLearning-Platform.png)
+![Overview photo1](eLearning-Platform.png)
